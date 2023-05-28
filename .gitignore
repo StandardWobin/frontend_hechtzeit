@@ -1,0 +1,19 @@
+node_modules/
+dist/
+hidden/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# security redundancy
+*.pem
+*.cert
+
+server.log
+*.log
+

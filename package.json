@@ -1,0 +1,46 @@
+{
+  "name": "hechtzeit_frontend_prototype",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Live Interaction Tool Prototype (FRONTEND)",
+  "author": "StandardWobin",
+  "scripts": {
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "dev": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "@mdi/font": "^6.5.95",
+    "axios": "^0.24.0",
+    "core-js": "^3.4.4",
+    "konva": "^8.4.3",
+    "socket.io-client": "^4.6.1",
+    "socketio-auth": "^0.1.1",
+    "uuid": "^8.3.2",
+    "vue": "^2.7.14",
+    "vue-audio-visual": "^2.5.0",
+    "vue-cookies": "^1.8.3",
+    "vue-konva": "^2.1.7",
+    "vue-qrcode-component": "^2.1.1",
+    "vue-router": "^3.1.3",
+    "vuedraggable": "^2.24.3",
+    "vuetify": "^2.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "^5.0.8",
+    "eslint": "^8.41.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^9.14.1",
+    "prettier": "^2.4.1",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.5",
+    "vuetify-loader": "^1.7.0"
+  },
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 120,
+  "editor.wrappingIndent": "same"
+}
